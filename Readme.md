@@ -11,7 +11,7 @@
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/swarnadeep_k)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/swarnadeep_k/)
-<a href="mailto:swarnadeepkarmakar101@gmail.com">
+<a href="mailto:swarnadeepkarmakar11@gmail.com">
   <img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
 <br />
